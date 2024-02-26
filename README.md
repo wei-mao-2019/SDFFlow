@@ -1,5 +1,5 @@
 ## Contact-aware Human Motion Forecasting
-![Loading Overview](data/overview.png "overview")
+![Loading Overview](media/overview.png "overview")
 
 This is the code for the paper
 
