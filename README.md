@@ -1,4 +1,4 @@
-## Contact-aware Human Motion Forecasting
+## Neural SDF Flow for 3D Reconstruction of Dynamic Scenes
 ![Loading Overview](media/overview.png "overview")
 
 This is the code for the paper
