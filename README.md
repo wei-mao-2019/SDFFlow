@@ -6,7 +6,7 @@ This is the code for the paper
 Wei Mao, Richard Hartley, Mathieu Salzmann, Miaomiao Liu. 
 [_Neural SDF Flow for 3D Reconstruction of Dynamic Scenes_](https://github.com/wei-mao-2019/SDFFlow). In ICLR 24.
 
-[[paper](https://arxiv.org/abs/2210.03954)] [[talk](https://neurips.cc/virtual/2022/poster/54945)]
+[[paper](https://github.com/wei-mao-2019/SDFFlow)] [[talk](https://github.com/wei-mao-2019/SDFFlow)]
 
 ### Dependencies
 * Python >= 3.8
