@@ -18,7 +18,7 @@ Wei Mao, Richard Hartley, Mathieu Salzmann, Miaomiao Liu.
 #### CMU Panoptic dataset
 For the original dataset please visit their website [http://domedb.perception.cs.cmu.edu/](http://domedb.perception.cs.cmu.edu/).
 
-Here we provide processed clips from five videos from the dataset: band1, cell1, hanggling_b2, ian3 and pizza1.
+[Here](https://drive.google.com/file/d/1OS5pb0wJB0dW2_70XE59C2jw3f7Uob8F/view?usp=sharing) we provide processed clips from five videos of the dataset: band1, cell1, hanggling_b2, ian3 and pizza1. Download the ``data.zip`` and unzip it to the root folder of the project.
 
 ### Training and Evaluation
 * The training and evaluation script is included in ``./code/run.sh`` file.
