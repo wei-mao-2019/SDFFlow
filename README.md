@@ -30,7 +30,7 @@ If you find our code usefull, please also consider to cite our work
 ```
 @inproceedings{mao2024neural,
   title={Neural SDF Flow for 3D Reconstruction of Dynamic Scenes},
-  author={Mao, Wei and Liu, Miaomiao and Hartley, Richard and Salzmann, Mathieu},
+  author={Mao, Wei and Hartley, Richard and Salzmann, Mathieu and Liu, Miaomiao},
   journal={ICLR},
   year={2024}
 }
